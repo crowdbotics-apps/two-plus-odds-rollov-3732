@@ -1,0 +1,3 @@
+rootProject.name = 'two_plus_odds_rollov_3732'
+
+include ':app'

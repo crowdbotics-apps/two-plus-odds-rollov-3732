@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT two_plus_odds_rollov_3732.wsgi:application
